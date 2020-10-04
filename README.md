@@ -12,3 +12,6 @@ Set up instructions:
 - clone the main repositry.
 - `npm install`.
 - `npm run dev`.
+
+### Note.
+ Add your Google API key in **index.html** to activate map.
