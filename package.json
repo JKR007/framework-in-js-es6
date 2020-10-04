@@ -1,0 +1,24 @@
+{
+  "name": "pets-in-js-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "es6-module-loader": "^0.17.11",
+    "jquery": "^2.2.3",
+    "material-design-lite": "^1.3.0",
+    "systemjs": "^0.19.27",
+    "traceur": "0.0.111"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
